@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Boom.cpp">
+      <Filter>爆炸</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletEnemy.cpp">
+      <Filter>子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>主要</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>飞机</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneEnemy.cpp">
+      <Filter>飞机</Filter>
+    </ClCompile>
+    <ClCompile Include="Prop.cpp">
+      <Filter>道具</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>得分</Filter>
+    </ClCompile>
+    <ClCompile Include="Operate.cpp">
+      <Filter>操控</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>界面</Filter>
+    </ClCompile>
+    <ClCompile Include="Music.cpp">
+      <Filter>资源\音乐</Filter>
+    </ClCompile>
+    <ClCompile Include="Thunderfighter.cpp">
+      <Filter>主要</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>资源</Filter>
+    </ClCompile>
+    <ClCompile Include="Shoot.cpp">
+      <Filter>主要</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>主要</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Boom.h">
+      <Filter>爆炸</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>子弹</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletEnemy.h">
+      <Filter>子弹</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>主要</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneEnemy.h">
+      <Filter>飞机</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>飞机</Filter>
+    </ClInclude>
+    <ClInclude Include="Prop.h">
+      <Filter>道具</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>得分</Filter>
+    </ClInclude>
+    <ClInclude Include="Operate.h">
+      <Filter>操控</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>界面</Filter>
+    </ClInclude>
+    <ClInclude Include="Music.h">
+      <Filter>资源\音乐</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="Shoot.h">
+      <Filter>主要</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>主要</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="爆炸">
+      <UniqueIdentifier>{f7899668-aa96-42d0-ad27-6135893af470}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="子弹">
+      <UniqueIdentifier>{45aa4cc1-38e4-453b-a9ba-b2fc4a517423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="主要">
+      <UniqueIdentifier>{37e8583f-051c-4d97-aa09-69c4ed03527d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="得分">
+      <UniqueIdentifier>{7efc89cf-5da5-470d-969d-1d5745b077f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="飞机">
+      <UniqueIdentifier>{d4a66d2a-fffe-4ec3-ba71-82729b58671e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="道具">
+      <UniqueIdentifier>{3324063e-523b-44c6-aac6-6536e3908c9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="操控">
+      <UniqueIdentifier>{8bf08804-8631-4f2a-8fc9-76ba54df98f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面">
+      <UniqueIdentifier>{8ac1dd6a-ed13-47f2-b815-e057ed5ef6a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源">
+      <UniqueIdentifier>{f3f91140-6094-41c3-9319-eaa5e4af2d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源\音乐">
+      <UniqueIdentifier>{b6903eb7-aa33-45cc-b308-8c936f8c86c6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="image\Icon1.ico">
+      <Filter>资源</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="飞机1.rc">
+      <Filter>资源</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

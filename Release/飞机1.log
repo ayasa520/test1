@@ -1,0 +1,37 @@
+﻿  Boom.cpp
+  Bullet.cpp
+  BulletEnemy.cpp
+D:\project\飞机\BulletEnemy.cpp(119,110): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\BulletEnemy.cpp(119,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Interface.cpp
+  Operate.cpp
+  Resource.cpp
+  Plane.cpp
+D:\project\飞机\Plane.cpp(79,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\Plane.cpp(82,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  PlaneEnemy.cpp
+D:\project\飞机\PlaneEnemy.cpp(76,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(94,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(95,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(100,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(101,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(107,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(108,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(112,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\PlaneEnemy.cpp(113,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Prop.cpp
+D:\project\飞机\Prop.cpp(53,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Score.cpp
+  Shoot.cpp
+D:\project\飞机\Shoot.cpp(119,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\project\飞机\Shoot.cpp(120,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Thunderfighter.cpp
+  Vector2.cpp
+  Game.cpp
+  Music.cpp
+  正在生成代码
+  167 of 168 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    86 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  飞机1.vcxproj -> D:\project\飞机\Release\雷霆战机.exe
